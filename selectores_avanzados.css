@@ -1,0 +1,52 @@
+.primero {
+  color: rgb(227,151,116);
+}
+.moradoparaeltitulo2 {
+  color: #EEEEEE;
+}
+#darlecoloryalegria {
+  color: #74e397;
+}
+#bordeado {
+  border: 3px solid red
+}
+.aloha {
+  background: #BFAB25;
+}
+#numero13:active {
+  background-color: blue;
+}
+input {
+  border: 2px dashed lime
+}
+div p {
+  font-size: 300%;
+}
+h1:hover {
+  color: black;
+}
+input.nocreo {
+  background-color: yellow;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: orange;
+}
+.estoyaprendiendo {
+  border: 4px solid white
+}
+
+label {
+  text-transform: uppercase;
+}
+p.#ultimo:first-letter{
+
+}
+.estomehizosufrir {
+    background-color: white;
+}
+.estotambienmehizosufrir {
+  font-size: 400%; background-color: red;
+}
